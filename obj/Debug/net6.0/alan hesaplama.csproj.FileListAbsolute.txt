@@ -1,0 +1,15 @@
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\bin\Debug\net6.0\alan hesaplama.exe
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\bin\Debug\net6.0\alan hesaplama.deps.json
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\bin\Debug\net6.0\alan hesaplama.runtimeconfig.json
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\bin\Debug\net6.0\alan hesaplama.dll
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\bin\Debug\net6.0\alan hesaplama.pdb
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.AssemblyInfo.cs
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.dll
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\refint\alan hesaplama.dll
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.pdb
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\alan hesaplama.genruntimeconfig.cache
+C:\Users\melik\Desktop\console\c# projeleri orta\alan hesaplama\obj\Debug\net6.0\ref\alan hesaplama.dll
